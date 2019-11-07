@@ -1,0 +1,8 @@
+### init file ###
+/assets/inc/init.inc.php
+
+###> symfony/framework-bundle ###
+###>/.env.local
+###>/.env.local.php
+###>/.env.*.local
+###>/public/bundles/
